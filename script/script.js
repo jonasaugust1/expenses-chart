@@ -23,6 +23,8 @@ const requestData = async () => {
 
 requestData()
 
+// Algoritmo que define o width das colunas a partir da porcentagem do gasto no dia 
+
 // const week = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun']
 
 // const setColumnWidth = () => {
